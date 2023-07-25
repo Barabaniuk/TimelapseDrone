@@ -73,14 +73,6 @@ void loop()
         Click=true;
       }
     }
-    /*if ((Click)&&((millis()-ClickTime)>=LongClick))
-    {
-         Click=false;
-         ClickTime=millis();
-         ClickDuration=0;
-         Main.ProgramRun=false;
-         resetFunc();
-    }*/
     if ((digitalRead(2)==HIGH)&&(ButtonState==LOW)) // Button released, previously pressed
     {
       if (Click)
