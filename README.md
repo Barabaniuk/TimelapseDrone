@@ -1,6 +1,8 @@
 # TimelapseDrone
 Wheel Drone Control System designed for slow-motion video shooting (the so-called timelapse), in which the camera moves along a given route and shoots at a speed of several frames per second to several frames per minute.
+
 After editing the received frames into a video with a normal frequency of 24 frames per second, we get a video on which one can observe quite significant periods of time in an accelerated form. The platform allows you to slowly move the camera according to a given program during the shooting process without the participation of an operator. The platform is fully mobile and can be used outdoors. In addition to linear movements, it also allows you to change the horizontal and vertical tilt of the camera.
+
 • Rated for use with a GoPro Hero 3 or any other camera weighing up to 200 grams
 • Linear movements - movement at a speed of 90 cm / s to 1 cm per hour. For low speeds, the platform moves in impulses. Moves a short distance (about 1-2 cm) with a minimum speed of about 1 cm / s, then stops until the next movement. The time between pulses can be any, which allows very low speeds to be achieved. Due to the fact that a single frame is captured at the moment of time between movement pulses, such movement does not affect the uniformity of the final video sequence.
 • Steering - Independent wheel steering allows the platform to move in both straight and curved paths. Possibility of turning on the spot
