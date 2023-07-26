@@ -28,7 +28,7 @@ System contains following components:
 * Servo brackets, stepper motor mounts
 
 ## Circuit diagram
-![Circuit diagram of drone](https://github.com/Barabaniuk/TimelapseDrone/blob/main/TimelapseDrone.CircuitDiagram_EN.pdf)
+![Circuit diagram of drone](https://github.com/Barabaniuk/TimelapseDrone/blob/main/TimelapseDrone.CircuitDiagram_EN.jpg)
 
 ## Gallery
 ![Phot of drone](https://github.com/Barabaniuk/TimelapseDrone/blob/main/TimelapseDrone.Photo_2.jpg)
