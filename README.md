@@ -1,6 +1,6 @@
 # TimelapseDrone
 Wheel Drone Control System designed for slow-motion video shooting (the so-called timelapse), in which the camera moves along a given route and shoots at a speed of several frames per second to several frames per minute.
-![Main view of drone](https://github.com/Barabaniuk/TimelapseDrone/blob/main/TimelapseDrone.Photo_1.jpg)
+![Main view of drone](https://github.com/Barabaniuk/TimelapseDrone/blob/main/Photo/TimelapseDrone.Photo_1.jpg)
 After editing the received frames into a video with a normal frequency of 24 frames per second, we get a video on which one can observe quite significant periods of time in an accelerated form. The platform allows you to slowly move the camera according to a given program during the shooting process without the participation of an operator. The platform is fully mobile and can be used outdoors. In addition to linear movements, it also allows you to change the horizontal and vertical tilt of the camera.
 
 ## Main functions
@@ -28,13 +28,13 @@ System contains following components:
 * Servo brackets, stepper motor mounts
 
 ## Circuit diagram
-![Circuit diagram of drone](https://github.com/Barabaniuk/TimelapseDrone/blob/main/TimelapseDrone.CircuitDiagram_EN.jpg)
+![Circuit diagram of drone](https://github.com/Barabaniuk/TimelapseDrone/blob/main/Circuit/TimelapseDrone.CircuitDiagram_EN.jpg)
 
 ## Gallery
-![Phot of drone](https://github.com/Barabaniuk/TimelapseDrone/blob/main/TimelapseDrone.Photo_2.jpg)
-![Phot of drone](https://github.com/Barabaniuk/TimelapseDrone/blob/main/TimelapseDrone.Photo_3.jpg)
-![Phot of drone](https://github.com/Barabaniuk/TimelapseDrone/blob/main/TimelapseDrone.Photo_4.jpg)
-![Phot of drone](https://github.com/Barabaniuk/TimelapseDrone/blob/main/TimelapseDrone.Photo_5.jpg)
-![Phot of drone](https://github.com/Barabaniuk/TimelapseDrone/blob/main/TimelapseDrone.Photo_6.jpg)
+![Phot of drone](https://github.com/Barabaniuk/TimelapseDrone/blob/main/Photo/TimelapseDrone.Photo_2.jpg)
+![Phot of drone](https://github.com/Barabaniuk/TimelapseDrone/blob/main/Photo/TimelapseDrone.Photo_3.jpg)
+![Phot of drone](https://github.com/Barabaniuk/TimelapseDrone/blob/main/Photo/TimelapseDrone.Photo_4.jpg)
+![Phot of drone](https://github.com/Barabaniuk/TimelapseDrone/blob/main/Photo/TimelapseDrone.Photo_5.jpg)
+![Phot of drone](https://github.com/Barabaniuk/TimelapseDrone/blob/main/Photo/TimelapseDrone.Photo_6.jpg)
 
 
